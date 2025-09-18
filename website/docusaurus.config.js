@@ -7,8 +7,8 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
 // Provider configuration - change these for different providers
-const providerName = "yourprovidername";
-const providerTitle = "Your Provider Title";
+const providerName = "confluent";
+const providerTitle = "Confluent";
 
 const providerDropDownListItems = [
   {
